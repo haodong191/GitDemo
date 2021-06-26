@@ -2,3 +2,6 @@ Lecctuce
 Chicken
 Beef
 Cheese
+lettuce
+apples
+potato
